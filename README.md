@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Stanley Pang
+# Hi there, I'm Stanley Pang
 🔭 I’m currently studying Computer Science at the University of Toronto<br>👯 I’m looking to collaborate on Full-stack AI/ML projects<br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning about LangChain and LangGraph<br>💬 Ask me about my favourite video games<br>⚡ Fun fact: My favourite anime is Steins;Gate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanleypangg) 
