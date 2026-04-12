@@ -1,5 +1,5 @@
 # Hi there, I'm Stanley Pang
-🔭 I’m currently studying Computer Science at the University of Toronto<br>👯 I’m looking to collaborate on Full-stack AI/ML projects<br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning about C++ and Computer Architecture<br>💬 Ask me about my favourite video games<br>⚡ Fun fact: My favourite anime is Steins;Gate
+🔭 I’m currently studying Computer Science at the University of Toronto<br>👯 I’m looking to collaborate on Full-stack AI/ML projects<br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning about Rust<br>💬 Ask me about my favourite video games<br>⚡ Fun fact: My favourite anime is Steins;Gate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanleypangg) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stanley.pang@mail.utoronto.ca) 
