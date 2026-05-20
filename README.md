@@ -1,5 +1,5 @@
 # Hi there, I'm Stanley Pang
-🔭 I’m currently studying Computer Science at the University of Toronto<br>🌱 I’m currently learning about Rust and ML infrastructure<br>💬 Ask me about my favourite video games<br>⚡ Fun fact: My favourite anime is Steins;Gate
+🔭 I’m currently studying Computer Science at the University of Toronto<br>🌱 I’m currently learning about Rust and ML infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanleypangg) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stanley.pang@mail.utoronto.ca) 
